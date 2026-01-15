@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/maotingli4968/osticket-prereqs)
+- <b>Azure Compute and Networking </b>
+  - [Azure Compute and Networking: Remote Desktop – Connecting to Your Azure Virtual Machine](https://github.com/maotingli4968/connecting-to-your-azure-vm)
   - [osTicket: Post-Installation Configuration](https://github.com/maotingli4968/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/maotingli4968/ticket-lifecycle)
 - <b>Microsoft Azure</b>
