@@ -4,7 +4,7 @@
 
 - <b>Azure Compute and Networking </b>
   - [Azure Compute and Networking: Remote Desktop – Connecting to Your Azure Virtual Machine](https://github.com/maotingli4968/connecting-to-your-azure-vm)
-  - [osTicket: Post-Installation Configuration](https://github.com/maotingli4968/post-install-config)
+  - [Remote Desktop – Using Protocol Analyzer and Configuring Firewalls](https://github.com/maotingli4968/Using-Protocol-Analyzer-and-Configuring-Firewalls)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/maotingli4968/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
