@@ -15,7 +15,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket – Installation and Configuration ](https://github.com/maotingli4968/osTicket-installation-and-configuration)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [osTicket – Initial Configuration](https://github.com/maotingli4968/osTicket–Initial-Configuration)
 
 
 
