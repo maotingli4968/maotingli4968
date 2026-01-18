@@ -15,7 +15,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket – Installation and Configuration ](https://github.com/maotingli4968/osTicket-installation-and-configuration)
-  - [osTicket – Initial Configuration](https://github.com/maotingli4968/osTicket–Initial-Configuration-Roles-Departments-Agents-SLAs-and-Help-Topics)
+  - [osTicket – osTicket Lab: Configure Roles, Teams, SLAs, and Help Topics](https://github.com/maotingli4968/osTicket–Initial-Configuration-Roles-Departments-Agents-SLAs-and-Help-Topics)
 
 
 
