@@ -5,7 +5,7 @@
 - <b>Azure Compute and Networking </b>
   - [Azure Compute and Networking: Remote Desktop – Connecting to Your Azure Virtual Machine](https://github.com/maotingli4968/connecting-to-your-azure-vm)
   - [Remote Desktop – Using Protocol Analyzer and Configuring Firewalls](https://github.com/maotingli4968/Using-Protocol-Analyzer-and-Configuring-Firewalls)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/maotingli4968/ticket-lifecycle)
+  - [Remote Desktop – Observing Network Traffic in Wireshark](https://github.com/maotingli4968/Observing-Network-Traffic-in-Wireshark)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
