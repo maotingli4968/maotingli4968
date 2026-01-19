@@ -28,7 +28,7 @@
 
 - <b>Network File Sharing</b>
 
-    - [Network File Sharing with Permissions in AD](https://github.com/maotingli4968/Active-Directory-Network-File-Shares-and-Permissions) 
+    - [Network File Sharing with Permissions in AD](https://github.com/maotingli4968/Network-File-Shares-and-Permissions/blob/main/README.md) 
 
 
 
