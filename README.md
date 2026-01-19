@@ -6,9 +6,7 @@
   - [Azure Compute and Networking: Remote Desktop – Connecting to Your Azure Virtual Machine](https://github.com/maotingli4968/connecting-to-your-azure-vm)
   - [Remote Desktop – Using Protocol Analyzer and Configuring Firewalls](https://github.com/maotingli4968/Using-Protocol-Analyzer-and-Configuring-Firewalls)
   - [Remote Desktop – Observing Network Traffic in Wireshark](https://github.com/maotingli4968/Observing-Network-Traffic-in-Wireshark)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
  
    
 
@@ -27,6 +25,11 @@
 - <b>DNS</b>
 
   - [Configuring DNS for Active Directory](https://github.com/maotingli4968/Configuring-DNS-for-Active-Directory)
+
+- <b>Network File Sharing</b>
+
+    - [Network File Sharing with Permissions in AD](https://github.com/maotingli4968/Active-Directory-Network-File-Shares-and-Permissions) 
+
 
 
 <h2>🤳Connect with me:</h2>
