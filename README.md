@@ -16,7 +16,7 @@
 
   - [osTicket – Installation and Configuration ](https://github.com/maotingli4968/osTicket-installation-and-configuration)
   - [osTicket – osTicket Lab: Configure Roles, Teams, SLAs, and Help Topics](https://github.com/maotingli4968/osTicket-Lab-Configure-Roles-Departments-Agents-SLAs-and-Help-Topics)
-  - [osTicket – Creating and Working Tickets](https://github.com/maotingli4968/Creating-and-Working-Tickets)
+  - [osTicket – Creating and Working Tickets](https://github.com/maotingli4968/osTicket-Creating-and-Working-Tickets-)
 
 
 
