@@ -22,6 +22,7 @@
 
   - [Active Directory – Setting up Domain Controller and Client](https://github.com/maotingli4968/Active-Directory-Setting-up-Domain-Controller-and-Client/blob/main/README.md)
   - [Active Directory – Deploying AD, Joining Clients, and Managing Users](https://github.com/maotingli4968/Active-Directory-Deploying-AD-Joining-Clients-and-Managing-Users/blob/main/README.md)
+  - [Active Directory – Enabling, Unlocking Accounts, and Resetting Passwords](https://github.com/maotingli4968/[Active Directory–Enabling-Unlocking-Accounts-and-Resetting-Passwords/blob/main/README.md)
 
 
 
