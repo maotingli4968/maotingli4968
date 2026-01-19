@@ -20,7 +20,7 @@
 
 - <b>Active Directory</b>
 
-  - [Active Directory – Setting up Domain Controller and Client](https://github.com/maotingli4968/active-directory–setting-up-Domain-Controller-and-Client)
+  - [Active Directory – Setting up Domain Controller and Client](https://github.com/maotingli4968/Active-Directory-Setting-up-Domain-Controller-and-Client/blob/main/README.md)
   - 
 
 
