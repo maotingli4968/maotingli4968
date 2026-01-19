@@ -24,6 +24,9 @@
   - [Active Directory – Deploying AD, Joining Clients, and Managing Users](https://github.com/maotingli4968/Active-Directory-Deploying-AD-Joining-Clients-and-Managing-Users/blob/main/README.md)
   - [Active Directory – Enabling, Unlocking Accounts, and Resetting Passwords](https://github.com/maotingli4968/Active-Directory-Enabling-Unlocking-Accounts-and-Resetting-Passwords/blob/main/README.md)
 
+- <b>DNS</b>
+
+  - [Configuring DNS for Active Directory](https://github.com/maotingli4968/Configuring-DNS-for-Active-Directory)
 
 
 <h2>🤳Connect with me:</h2>
